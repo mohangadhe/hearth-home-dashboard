@@ -1,0 +1,16 @@
+.DS_Store
+.AppleDouble
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.p8
+*.mobileprovision
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+*.log
